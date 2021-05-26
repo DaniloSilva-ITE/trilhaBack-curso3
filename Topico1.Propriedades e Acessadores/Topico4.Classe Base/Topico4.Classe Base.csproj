@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0FB098FE-926D-4A5E-9EA4-D410437AB438}</ProjectGuid>
+    <ProjectGuid>{6893EC1C-9F07-44BC-814C-1BC129334C4E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Topico3.Interface_Explicita</RootNamespace>
-    <AssemblyName>Topico3.Interface Explicita</AssemblyName>
+    <RootNamespace>Topico4.Classe_Base</RootNamespace>
+    <AssemblyName>Topico4.Classe Base</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0FB098FE-926D-4A5E-9EA4-D410437AB438}</ProjectGuid>
+    <ProjectGuid>{CA37403A-105B-490F-A868-683D9FE7FBE5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Topico3.Interface_Explicita</RootNamespace>
-    <AssemblyName>Topico3.Interface Explicita</AssemblyName>
+    <RootNamespace>Topico5.Comparações</RootNamespace>
+    <AssemblyName>Topico5.Comparações</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="depois\Program.cs" />
+    <None Include="antes\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
